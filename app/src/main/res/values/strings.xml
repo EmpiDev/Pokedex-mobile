@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">English</string>
+    <string name="PokemonName">Name</string>
+    <string name="Pokemonstats">Stats</string>
+    <string name="PokemonHP">HP</string>
+    <string name="Pokemonattack">Attack</string>
+    <string name="Pokemondefense">Defense</string>
+    <string name="Pokemonspecial_attack">Special attack</string>
+    <string name="Pokemonspecial_defense">Special defense</string>
+    <string name="Pokemonspeed">Speed</string>
+    <string name="Loading">Loading</string>
+    <string name="PokemonGeneration">Generation</string>
+    <string name="PokemonTypes">Types</string>
+    <string name="PokemonAddToFavorite">Add to favorite</string>
+    <string name="PokemonRemoveFromFavorite">Remove from favorite</string>
+    <string name="PokemonFavorite">Favorite</string>
+    <string name="PokemonFavoriteList">Favorite List</string>
+
+
+</resources>
